@@ -1,1 +1,4 @@
 Welcome Program
+class Welcome{
+}
+
